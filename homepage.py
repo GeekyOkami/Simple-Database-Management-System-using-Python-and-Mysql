@@ -1,6 +1,3 @@
-#Created BY Aman Sharma Class 12 A
-#And Aryan Aarav Class 12 A
-
 from tkinter import *
 import mysql.connector
 #Creating a list of available data types in MySQL to be used later
